@@ -1,3 +1,5 @@
+**Disclaimer: this is a project I hope to continue in the future, but for now here it sits.**
+
 # RocketLauncher
 
 I plan to make the "ultimate" Minecraft launcher.
